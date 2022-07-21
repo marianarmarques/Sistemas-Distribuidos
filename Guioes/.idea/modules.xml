@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/G01/G01.iml" filepath="$PROJECT_DIR$/src/G01/G01.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/G02/G02.iml" filepath="$PROJECT_DIR$/src/G02/G02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/G03/G03.iml" filepath="$PROJECT_DIR$/src/G03/G03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Guioes.iml" filepath="$PROJECT_DIR$/Guioes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Guioes/G03/G03.iml" filepath="$PROJECT_DIR$/src/Guioes/G03/G03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Guioes/G06/G06.iml" filepath="$PROJECT_DIR$/src/Guioes/G06/G06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Guioes/G07/G07.iml" filepath="$PROJECT_DIR$/src/Guioes/G07/G07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Testes/Testes.iml" filepath="$PROJECT_DIR$/../Testes/Testes.iml" />
     </modules>
   </component>
 </project>

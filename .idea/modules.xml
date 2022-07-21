@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G01/G01.iml" filepath="$PROJECT_DIR$/Guioes/src/G01/G01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G02/G02.iml" filepath="$PROJECT_DIR$/Guioes/src/G02/G02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G03/G03.iml" filepath="$PROJECT_DIR$/Guioes/src/G03/G03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G04/G04.iml" filepath="$PROJECT_DIR$/Guioes/src/G04/G04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G05/G05.iml" filepath="$PROJECT_DIR$/Guioes/src/G05/G05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G06/G06.iml" filepath="$PROJECT_DIR$/Guioes/src/G06/G06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G07/G07.iml" filepath="$PROJECT_DIR$/Guioes/src/G07/G07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/src/G08/G08.iml" filepath="$PROJECT_DIR$/Guioes/src/G08/G08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guioes/Guioes.iml" filepath="$PROJECT_DIR$/Guioes/Guioes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SD.iml" filepath="$PROJECT_DIR$/.idea/SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testes/Testes.iml" filepath="$PROJECT_DIR$/Testes/Testes.iml" />
+    </modules>
+  </component>
+</project>
