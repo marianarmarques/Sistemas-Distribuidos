@@ -1,6 +1,6 @@
-package Teste2016;
+package Exame2016;
 
-import Teste2016.Interfaces.IControlador;
+import Exame2016.Interfaces.IControlador;
 
 import java.util.HashMap;
 import java.util.Map;

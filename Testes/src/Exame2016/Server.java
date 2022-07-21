@@ -1,4 +1,4 @@
-package Teste2016;
+package Exame2016;
 
 import java.io.*;
 import java.net.ServerSocket;

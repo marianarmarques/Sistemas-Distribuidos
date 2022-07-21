@@ -1,8 +1,6 @@
-package Teste2016;
+package Exame2016;
 
-import Teste2016.Interfaces.IQuestao;
-
-import java.util.concurrent.locks.ReentrantLock;
+import Exame2016.Interfaces.IQuestao;
 
 public class Questao implements IQuestao {
 

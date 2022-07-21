@@ -1,4 +1,4 @@
-package Teste2016.Interfaces;
+package Exame2016.Interfaces;
 
 public interface IQuestao {
     String responde(String resposta);
