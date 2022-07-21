@@ -28,8 +28,7 @@ public class Client {
         DataOutputStream dos = new DataOutputStream(new BufferedOutputStream(socket.getOutputStream()));
 
         ContactList cl = ContactList.deserialize(dis);
-        System.out.println("ola");
-        System.out.println(cl.toString());
+        System.out.println(cl);
 
         String userInput;
         while ((userInput = systemIn.readLine()) != null) {
